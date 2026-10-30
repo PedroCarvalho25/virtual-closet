@@ -1,0 +1,9 @@
+node_modules
+.tools
+.npm-cache
+.expo
+dist
+test-results
+playwright-report
+prompt-*.md
+package-lock.json

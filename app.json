@@ -1,0 +1,66 @@
+{
+  "expo": {
+    "name": "Virtual Closet",
+    "slug": "virtual-closet",
+    "version": "1.0.0",
+    "scheme": "virtualcloset",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#E7EDB8"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#FEEECE",
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 120
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Permita acesso às fotos para adicionar suas peças e looks ao Virtual Closet.",
+          "cameraPermission": "Permita usar a câmera para fotografar suas peças e looks.",
+          "microphonePermission": false
+        }
+      ],
+      "expo-font",
+      "expo-status-bar",
+      "expo-image",
+      "expo-sharing",
+      "expo-secure-store",
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Permita acessar suas fotos para usar o Virtual Closet.",
+          "savePhotosPermission": "Permita salvar imagens do mural na sua galeria.",
+          "granularPermissions": [
+            "photo"
+          ],
+          "isAccessMediaLocationEnabled": false
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

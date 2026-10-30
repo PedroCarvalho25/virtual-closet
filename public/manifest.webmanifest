@@ -1,0 +1,10 @@
+{
+  "id": "/", "name": "Virtual Closet", "short_name": "Closet", "lang": "pt-BR",
+  "description": "Seu acervo de roupas, referências e possibilidades.",
+  "start_url": "/discover", "scope": "/", "display": "standalone",
+  "background_color": "#FEEECE", "theme_color": "#FEEECE",
+  "icons": [
+    { "src": "/pwa/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/pwa/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

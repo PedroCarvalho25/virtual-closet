@@ -1,0 +1,90 @@
+[
+  {
+    "key": "street",
+    "title": "Urbano em amarelo",
+    "tags": ["urbano", "outfit", "rua"],
+    "colors": ["amarelo", "preto"],
+    "sourceUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f",
+    "width": 2124,
+    "height": 2940,
+    "credit": "Unsplash · foto 1515886657613-9f3515b0c78f",
+    "sha256": "689e78c3c2c444248fa31fffa2a33b5b774feaf066229f04065dc32e7438c97f"
+  },
+  {
+    "key": "knit",
+    "title": "Texturas de tricô",
+    "tags": ["trico", "texturas", "inverno"],
+    "colors": ["bege", "branco"],
+    "sourceUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105",
+    "width": 2200,
+    "height": 3158,
+    "credit": "Unsplash · foto 1434389677669-e08b4cac3105",
+    "sha256": "1f6932e1243eadcfcc90a458ff0714a26645f58f58bbe87479d7ce72464bacd8"
+  },
+  {
+    "key": "sneakers",
+    "title": "Tênis em tons terrosos",
+    "tags": ["tenis", "acessorios", "casual"],
+    "colors": ["marrom"],
+    "sourceUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772",
+    "width": 2200,
+    "height": 1572,
+    "credit": "Unsplash · foto 1549298916-b41d501d3772",
+    "sha256": "ad59cc94ceb5da224058c250c3aecc659b4b2e594da07afc284a80613c4553f7"
+  },
+  {
+    "key": "denim",
+    "title": "Jeans para combinar",
+    "tags": ["jeans", "calca", "denim"],
+    "colors": ["azul"],
+    "sourceUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d",
+    "width": 2200,
+    "height": 1760,
+    "credit": "Unsplash · foto 1542272604-787c3835535d",
+    "sha256": "f2a5233b86635389ef3fd064e8bd462a6e50a35ea05ad4e8554c5176c2ada317"
+  },
+  {
+    "key": "shirt",
+    "title": "Camisa leve",
+    "tags": ["camisa", "classico", "minimalista"],
+    "colors": ["branco"],
+    "sourceUrl": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10",
+    "width": 2200,
+    "height": 1760,
+    "credit": "Unsplash · foto 1598033129183-c4f50c736f10",
+    "sha256": "c761bb88fb6e6779e6afa9ae3bba58e230973c0202b25813e9f04a795422f5a0"
+  },
+  {
+    "key": "tee",
+    "title": "O básico branco",
+    "tags": ["camiseta", "basico", "minimalista"],
+    "colors": ["branco"],
+    "sourceUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "width": 2200,
+    "height": 2200,
+    "credit": "Unsplash · foto 1521572163474-6864f9cf17ab",
+    "sha256": "9d16d9ddaf8a7b417ab1d74bc3ab87acb5c885839363728c2b424772a72b6e49"
+  },
+  {
+    "key": "cap",
+    "title": "Acessório de todos os dias",
+    "tags": ["bone", "acessorios", "urbano"],
+    "colors": ["branco"],
+    "sourceUrl": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b",
+    "width": 2200,
+    "height": 2927,
+    "credit": "Unsplash · foto 1588850561407-ed78c282e89b",
+    "sha256": "c0c4e1b0121ac967787328c53544f947ce471294ecce03c6561b343fa99018b4"
+  },
+  {
+    "key": "closet",
+    "title": "Paleta do closet",
+    "tags": ["paleta", "cores", "roupas"],
+    "colors": ["bege", "marrom"],
+    "sourceUrl": "https://images.unsplash.com/photo-1445205170230-053b83016050",
+    "width": 2200,
+    "height": 1467,
+    "credit": "Unsplash · foto 1445205170230-053b83016050",
+    "sha256": "ea37e77c612b36e8237604b7107f17ac7fceeecc49cd5218298b21885b90fa8f"
+  }
+]
